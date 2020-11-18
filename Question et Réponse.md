@@ -16,7 +16,7 @@ Réponse2: Le bouton Back (Précédent) ne fonctionne plus dans la deuxième act
 
 Question3 : Quelle méthode de constructeur utilisez-vous pour créer une nouvelle intention (Intent) explicite?
 
-Réponse: new Intent(Context context, Class<?> class)
+Réponse3: new Intent(Context context, Class<?> class)
 
 
 
